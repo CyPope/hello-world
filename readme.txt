@@ -1,6 +1,1 @@
-this is a git test
-here is a new line
-one more line
-
-a new line to branch
-a line in branch 2
+version of readme as of 3/23/20
